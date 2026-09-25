@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/DoNotTouch/Scenes/DoNotTouch_Night01.unity
+    guid: 8d66b291d0e5e423cad89fd2723242ad
+  - enabled: 1
+    path: Assets/DoNotTouch/Scenes/PrototypeMuseum_Horror.unity
+    guid: 4b86cdc694ebe4bee95e145645807ba3
+  - enabled: 1
+    path: Assets/DoNotTouch/Scenes/PrototypeMuseum.unity
+    guid: b3de040bfb4c84ee39b763f2958097cb
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 99c9720ab356a0642a771bea13969a05
+  m_configObjects:
+    com.unity.dt.app-ui: {fileID: 11400000, guid: 1b1c20d82303e4b5781c3ef50ac1449f, type: 2}
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0

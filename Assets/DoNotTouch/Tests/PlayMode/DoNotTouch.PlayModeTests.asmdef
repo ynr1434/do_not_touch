@@ -1,0 +1,11 @@
+{
+  "name": "DoNotTouch.PlayModeTests",
+  "references": [
+    "DoNotTouch.Runtime",
+    "Unity.Netcode.Runtime",
+    "Unity.InputSystem"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

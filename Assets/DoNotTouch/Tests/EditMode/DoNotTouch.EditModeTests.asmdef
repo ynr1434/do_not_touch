@@ -1,0 +1,13 @@
+{
+  "name": "DoNotTouch.EditModeTests",
+  "references": [
+    "DoNotTouch.Runtime",
+    "Unity.Netcode.Runtime"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "optionalUnityReferences": [
+    "TestAssemblies"
+  ]
+}

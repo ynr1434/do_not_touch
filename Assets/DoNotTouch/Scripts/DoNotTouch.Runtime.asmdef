@@ -1,0 +1,11 @@
+{
+  "name": "DoNotTouch.Runtime",
+  "references": [
+    "Unity.Netcode.Runtime",
+    "Unity.Networking.Transport",
+    "Unity.InputSystem",
+    "Unity.ugui",
+    "Unity.RenderPipelines.Core.Runtime",
+    "Unity.RenderPipelines.Universal.Runtime"
+  ]
+}
