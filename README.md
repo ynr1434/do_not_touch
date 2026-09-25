@@ -6,7 +6,7 @@
 
 ## Запуск
 
-Готовая macOS development-сборка первой полной смены: `Builds/macOS/DoNotTouch_Night01.app`. Можно запустить её напрямую и нажать **Host shift**. Предыдущая проверенная версия сохранена как `DoNotTouch_Horror.app`.
+Скачать готовую macOS development-сборку первой полной смены можно на странице [GitHub Releases](https://github.com/ynr1434/do_not_touch/releases/latest). Распакуйте `DoNotTouch_Night01-macOS.zip` и откройте `DoNotTouch_Night01.app`, затем нажмите **Host shift**. Сборка universal для Intel и Apple Silicon. Если macOS заблокирует неподписанное приложение, нажмите по нему правой кнопкой мыши → **Open** → подтвердите запуск. Репозиторий приватный: владельцу нужно добавить игроков в collaborators, чтобы они могли скачать релиз.
 
 Откройте этот каталог через Unity Hub. Откройте `Assets/DoNotTouch/Scenes/DoNotTouch_Night01.unity` (или **Tools > Do Not Touch > Open Night 01**). Нажмите Play → **Host shift**.
 
